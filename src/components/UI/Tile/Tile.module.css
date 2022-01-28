@@ -1,0 +1,10 @@
+.wrap{
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    border: 1px solid teal;
+    border-radius: 10%;
+    margin: 15px;
+    background: whitesmoke;
+    box-sizing: content-box;
+}

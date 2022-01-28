@@ -1,0 +1,16 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+    box-sizing: border-box;
+}
+.item{
+    box-sizing: border-box;
+}
+.wrap{
+    border: 1px solid teal;
+    border-radius: 5px;
+    box-sizing: content-box;
+    height: 50px;
+    width: 80vw;
+}

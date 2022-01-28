@@ -1,0 +1,15 @@
+.btns_wrap{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+}
+.selector:hover{
+    background-color: whitesmoke;
+}
+.back__btn{
+    width: 25px;
+    height: 25px;
+    background-color: whitesmoke;
+    border-radius: 25%;
+}
